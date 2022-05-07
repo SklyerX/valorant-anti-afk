@@ -13,7 +13,7 @@
 **Executable**
 
 - Press on the afk.exe (this will not allow you to view the code)
-- You can also download it by clicking [here](https://github.com/SklyerX/Unfollow-Bot/releases/tag/v1)
+- You can also download it by clicking [here](https://github.com/SklyerX/valorant-anti-afk/releases/tag/v1)
 
 ----------
 **Contact Me**
